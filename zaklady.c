@@ -20,7 +20,7 @@ int zaklady(int x, int y, int xy, int pula, int start)
 	   if (xy > x)
 	   {
 	   	printf("Nie mozesz tyle obstawic!");
-	   	system("clear");
+	   	system("cls");
 	   }
 	   
 	   else

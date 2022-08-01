@@ -8,7 +8,7 @@
 
 int main()
 {
-	system("clear");
+	system("cls");
 	int graj = 0;
 	int monetyGracz = 300;
 	int monetyPC = 300;
