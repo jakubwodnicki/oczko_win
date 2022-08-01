@@ -1,4 +1,4 @@
-#include "losowanie.h"
+#include "losowanieGracz.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

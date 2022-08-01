@@ -35,7 +35,7 @@ int main()
 			
 			case 1:
 				printf("Zaczynajmy!");
-				system("clear");
+				system("cls");
 				break;
 				
 		}
